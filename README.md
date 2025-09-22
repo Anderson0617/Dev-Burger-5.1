@@ -25,7 +25,8 @@ Uma vitrine digital moderna para restaurantes, com cardápio interativo, checkou
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/anderson-olivera-dev)  
 - 💻 [GitHub](https://github.com/Anderson0617)  
-- 🌐 [Portfólio](https://anderson0617.github.io/)  
+🌐 [Portfólio](https://anderson0617.github.io/-meu-portfolio/)
+
 
 ---
 
